@@ -1,0 +1,8 @@
+c:\users\cepaqpum-eve\documents\visual studio 2015\Projects\Example_06\Example_06\bin\Debug\Example_06.exe.config
+C:\Users\admin.superfish\Desktop\Паттерны\Example_06\Example_06\bin\Debug\Example_06.exe.config
+C:\Users\Nikita\Desktop\Example_06\Example_06\bin\Debug\Example_06.exe.config
+C:\Users\Nikita\Desktop\Example_06\Example_06\bin\Debug\Example_06.exe
+C:\Users\Nikita\Desktop\Example_06\Example_06\bin\Debug\Example_06.pdb
+C:\Users\Nikita\Desktop\Example_06\Example_06\obj\Debug\Example_06.csprojResolveAssemblyReference.cache
+C:\Users\Nikita\Desktop\Example_06\Example_06\obj\Debug\Example_06.exe
+C:\Users\Nikita\Desktop\Example_06\Example_06\obj\Debug\Example_06.pdb
